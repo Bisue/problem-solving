@@ -18,6 +18,7 @@
   - [가장 큰 정사각형 찾기](/programmers/lv2/12905.cpp)
   - [올바른 괄호](/programmers/lv2/12909.cpp)
   - [땅따먹기](/programmers/lv2/12913.py)
+  - [최댓값과 최솟값](/programmers/lv2/12939.py)
   - [무인도 여행](/programmers/lv2/154540.py)
   - [리코쳇 로봇](/programmers/lv2/169199.py)
   - [[3차] n진수 게임 (2018 KAKAO BLIND RECRUITMENT)](/programmers/lv2/17687.py)
