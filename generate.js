@@ -101,3 +101,5 @@ const solvedProblems = siteDirectories.reduce((acc, site) => {
 }, {});
 
 fs.writeFileSync(path.resolve(".", output), buildMarkdown(solvedProblems));
+
+console.log(`${output} 생성이 완료되었습니다.`);
