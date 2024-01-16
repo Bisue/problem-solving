@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+// =================================================
+
 const siteMeta = {
   programmers: {
     lv2: "레벨 2",
@@ -11,6 +13,10 @@ const siteMeta = {
     gold: "골드",
   },
 };
+const ignores = [".gitkeep"];
+const output = "solved.md";
+
+// =================================================
 
 const siteNames = Object.keys(siteMeta);
 
@@ -28,7 +34,7 @@ const solvedProblems = siteDirectories.reduce((acc, site) => {
         ...acc,
         [siteMeta[site][l]]: fs
           .readdirSync(path.resolve(".", site, l))
-          .filter((p) => p !== ".gitkeep")
+          .filter((p) => !ignores.includes(p))
           .map((p) => ({
             title: fs
               .readFileSync(path.resolve(".", site, l, p))
@@ -76,4 +82,4 @@ function buildMarkdown(solvedProblems) {
     .join("\n\n");
 }
 
-fs.writeFileSync(path.resolve(".", "solved.md"), buildMarkdown(solvedProblems));
+fs.writeFileSync(path.resolve(".", output), buildMarkdown(solvedProblems));
