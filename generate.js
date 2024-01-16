@@ -60,7 +60,7 @@ function getSiteInfo(site) {
 function buildProblemsMarkdown(solvedProblems, site, level) {
   return solvedProblems[site][level]
     .map((p) => `- [${p.title}](${p.href})`)
-    .join("\n\n  ");
+    .join("\n  ");
 }
 
 function buildLevelsMarkdown(solvedProblems, site) {
