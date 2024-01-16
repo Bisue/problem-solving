@@ -18,41 +18,44 @@ const output = "solved.md";
 
 // =================================================
 
-const siteNames = Object.keys(siteMeta);
+function getProblemInfo(site, level, problem) {
+  const realPath = path.resolve(".", site, level, problem);
 
-const siteDirectories = fs
-  .readdirSync(path.resolve("."))
-  .filter((d) => siteNames.includes(d));
+  return {
+    title: fs
+      .readFileSync(realPath)
+      .toString()
+      .split("\n")[0]
+      .replace(/^(\/\/|\#)/g, "")
+      .trim(),
+    href: `/${site}/${level}/${problem}`,
+  };
+}
 
-const solvedProblems = siteDirectories.reduce((acc, site) => {
+function getLevelInfo(site, level) {
+  const realPath = path.resolve(".", site, level);
+
+  return fs
+    .readdirSync(realPath)
+    .filter((p) => !ignores.includes(p))
+    .map((p) => getProblemInfo(site, level, p));
+}
+
+function getSiteInfo(site) {
   const levels = Object.keys(siteMeta[site]);
-  const problems = fs
-    .readdirSync(path.resolve(".", site))
+  const realPath = path.resolve(".", site);
+
+  return fs
+    .readdirSync(realPath)
     .filter((d) => levels.includes(d))
     .reduce(
       (acc, l) => ({
         ...acc,
-        [siteMeta[site][l]]: fs
-          .readdirSync(path.resolve(".", site, l))
-          .filter((p) => !ignores.includes(p))
-          .map((p) => ({
-            title: fs
-              .readFileSync(path.resolve(".", site, l, p))
-              .toString()
-              .split("\n")[0]
-              .replace(/^(\/\/|\#)/g, "")
-              .trim(),
-            href: `/${site}/${l}/${p}`,
-          })),
+        [siteMeta[site][l]]: getLevelInfo(site, l),
       }),
       {}
     );
-
-  return {
-    ...acc,
-    [site]: problems,
-  };
-}, {});
+}
 
 function buildProblemsMarkdown(solvedProblems, site, level) {
   return solvedProblems[site][level]
@@ -81,5 +84,20 @@ function buildMarkdown(solvedProblems) {
     )
     .join("\n\n");
 }
+
+const siteNames = Object.keys(siteMeta);
+
+const siteDirectories = fs
+  .readdirSync(path.resolve("."))
+  .filter((d) => siteNames.includes(d));
+
+const solvedProblems = siteDirectories.reduce((acc, site) => {
+  const problems = getSiteInfo(site);
+
+  return {
+    ...acc,
+    [site]: problems,
+  };
+}, {});
 
 fs.writeFileSync(path.resolve(".", output), buildMarkdown(solvedProblems));
