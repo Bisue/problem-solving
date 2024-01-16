@@ -14,6 +14,8 @@
 
 ### 푼 문제 목록 자동생성기
 
+> 푼 문제 코드를 커밋 후 푸시하면 [actions에 의해](/.github/workflows/generate.yml) 자동으로 생성됨
+
 ```
 node generate.js
 ```
