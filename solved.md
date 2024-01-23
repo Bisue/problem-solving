@@ -35,6 +35,7 @@
     
   - [야근 지수](/programmers/lv3/12927.py)
   - [최고의 집합](/programmers/lv3/12938.py)
+  - [주사위 고르기(2024 KAKAO WINTER INTERMSHIP)](/programmers/lv3/258709.py)
   - [베스트앨범](/programmers/lv3/42579.cpp)
   - [베스트앨범](/programmers/lv3/42579.py)
   - [디스크 컨트롤러](/programmers/lv3/42627.cpp)
