@@ -1,0 +1,17 @@
+name: Generate Solved List
+on: push
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: node generate.js
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "solved.md"
+          author_name: Bisue
+          author_email: bdu00chch@gmail.com
+          message: "actions: 푼 문제 목록 갱신(auto)"
