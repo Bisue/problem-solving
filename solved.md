@@ -33,6 +33,7 @@
 
   #### 레벨 3
     
+  - [등산 코스 정하기(2022 KAKAO TECH INTERNSHIP)](/programmers/lv3/118669.py)
   - [야근 지수](/programmers/lv3/12927.py)
   - [최고의 집합](/programmers/lv3/12938.py)
   - [주사위 고르기(2024 KAKAO WINTER INTERMSHIP)](/programmers/lv3/258709.py)
