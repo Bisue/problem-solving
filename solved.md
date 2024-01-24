@@ -1,4 +1,25 @@
 <details>
+  <summary>2024-dgu-spring-camp</summary>
+
+  #### 1일차 - 시간 복잡도 & 문제 접근 방법
+    
+  - [로마 카톨릭 미사(COCI_2013_CONTEST2_2)](/2024-dgu-spring-camp/01/2030.py)
+  - [ALPS식 투표(COCI_2011_CONTEST3_2)](/2024-dgu-spring-camp/01/2106.py)
+  - [숫자놀이](/2024-dgu-spring-camp/01/2713.py)
+  - [약수의 합](/2024-dgu-spring-camp/01/3079.cpp)
+  - [약수의 합](/2024-dgu-spring-camp/01/3079.py)
+  - [수 정렬하기](/2024-dgu-spring-camp/01/4666.cpp)
+  - [수 정렬하기](/2024-dgu-spring-camp/01/4666.py)
+  - [N-QUEEN 일까?](/2024-dgu-spring-camp/01/4766.py)
+  - [오목판단](/2024-dgu-spring-camp/01/4816.py)
+  - [구간의 합들](/2024-dgu-spring-camp/01/5302.py)
+  - [N번째 피보나치 수 구하기 1](/2024-dgu-spring-camp/01/5333.py)
+  - [N번째 피보나치 수 구하기 2](/2024-dgu-spring-camp/01/5334.py)
+  - [N번째 피보나치 수 구하기 3](/2024-dgu-spring-camp/01/5335.py)
+  - [분수 비교하기](/2024-dgu-spring-camp/01/5337.py)
+</details>
+
+<details>
   <summary>baekjoon</summary>
 
   #### 골드
