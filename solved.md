@@ -26,6 +26,7 @@
   - [3장으로 하는 블랙잭](/2024-dgu-spring-camp/02/2123.py)
   - [콜라 배달](/2024-dgu-spring-camp/02/2188.py)
   - [삼각화단 만들기(S)](/2024-dgu-spring-camp/02/2951.py)
+  - [숫자 야구](/2024-dgu-spring-camp/02/4104.py)
   - [바닥 도배](/2024-dgu-spring-camp/02/4107.py)
   - [올바른 삼각형](/2024-dgu-spring-camp/02/4349.py)
   - [방 배정하기(KOI전국2017_초등부_2_중등부_1)](/2024-dgu-spring-camp/02/556.py)
