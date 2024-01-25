@@ -17,6 +17,20 @@
   - [N번째 피보나치 수 구하기 2](/2024-dgu-spring-camp/01/5334.py)
   - [N번째 피보나치 수 구하기 3](/2024-dgu-spring-camp/01/5335.py)
   - [분수 비교하기](/2024-dgu-spring-camp/01/5337.py)
+
+  #### 2일차 - 반복문을 활용한 완전탐색 1
+    
+  - [Milk Pails(USACO_2016_FEB_BRONZ_1)](/2024-dgu-spring-camp/02/1224.py)
+  - [멀티그램(COCI_2016_CONTEST5_2)](/2024-dgu-spring-camp/02/1958.py)
+  - [점심식사(COCI_2016_CONTEST6_2)](/2024-dgu-spring-camp/02/1964.py)
+  - [3장으로 하는 블랙잭](/2024-dgu-spring-camp/02/2123.py)
+  - [콜라 배달](/2024-dgu-spring-camp/02/2188.py)
+  - [삼각화단 만들기(S)](/2024-dgu-spring-camp/02/2951.py)
+  - [바닥 도배](/2024-dgu-spring-camp/02/4107.py)
+  - [올바른 삼각형](/2024-dgu-spring-camp/02/4349.py)
+  - [방 배정하기(KOI전국2017_초등부_2_중등부_1)](/2024-dgu-spring-camp/02/556.py)
+  - [올림픽(KOI전국2013_초등부_1)](/2024-dgu-spring-camp/02/565.py)
+  - [일곱 난쟁이](/2024-dgu-spring-camp/02/875.py)
 </details>
 
 <details>
