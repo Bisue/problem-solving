@@ -32,6 +32,17 @@
   - [방 배정하기(KOI전국2017_초등부_2_중등부_1)](/2024-dgu-spring-camp/02/556.py)
   - [올림픽(KOI전국2013_초등부_1)](/2024-dgu-spring-camp/02/565.py)
   - [일곱 난쟁이](/2024-dgu-spring-camp/02/875.py)
+
+  #### 3일차 - 반복문을 활용한 완전탐색 2
+    
+  - [정사각형 찾기](/2024-dgu-spring-camp/03/296.py)
+  - [고기잡이(L)](/2024-dgu-spring-camp/03/2962.py)
+  - [마라톤1](/2024-dgu-spring-camp/03/3370.py)
+  - [평균이 들어있는 구간 구하기](/2024-dgu-spring-camp/03/4093.py)
+  - [체스판 색칠놀이](/2024-dgu-spring-camp/03/4096.py)
+  - [표지](/2024-dgu-spring-camp/03/4103.py)
+  - [화살표그리기(KOI전국2018_초등부_2)](/2024-dgu-spring-camp/03/553.py)
+  - [덩치(KOI지역2013_초등부_2)](/2024-dgu-spring-camp/03/767.py)
 </details>
 
 <details>
