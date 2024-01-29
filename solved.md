@@ -43,6 +43,19 @@
   - [표지](/2024-dgu-spring-camp/03/4103.py)
   - [화살표그리기(KOI전국2018_초등부_2)](/2024-dgu-spring-camp/03/553.py)
   - [덩치(KOI지역2013_초등부_2)](/2024-dgu-spring-camp/03/767.py)
+
+  #### 4일차 - DFS 1
+    
+  - [스도쿠 풀기](/2024-dgu-spring-camp/04/2871.py)
+  - [0을 만들자](/2024-dgu-spring-camp/04/2872.py)
+  - [양팔 저울](/2024-dgu-spring-camp/04/3056.py)
+  - [탑 쌓기](/2024-dgu-spring-camp/04/4140.py)
+  - [짐 싣기](/2024-dgu-spring-camp/04/4141.py)
+  - [N과 M 2](/2024-dgu-spring-camp/04/4143.py)
+  - [모든 순열](/2024-dgu-spring-camp/04/4154.py)
+  - [N과 M 1](/2024-dgu-spring-camp/04/4155.py)
+  - [N과 M 3](/2024-dgu-spring-camp/04/4156.py)
+  - [사과 나누기](/2024-dgu-spring-camp/04/4752.py)
 </details>
 
 <details>
