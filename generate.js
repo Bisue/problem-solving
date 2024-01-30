@@ -40,6 +40,8 @@ const output = "solved.md";
 
 function getProblemInfo(site, level, problem) {
   const realPath = path.resolve(".", site, level, problem);
+  const filenameTokens = problem.split(".");
+  const extension = filenameTokens[filenameTokens.length - 1];
 
   return {
     title: fs
@@ -49,6 +51,7 @@ function getProblemInfo(site, level, problem) {
       .replace(/^(\/\/|\#)/g, "")
       .trim(),
     href: `/${site}/${level}/${problem}`,
+    extension,
   };
 }
 
@@ -79,7 +82,7 @@ function getSiteInfo(site) {
 
 function buildProblemsMarkdown(solvedProblems, site, level) {
   return solvedProblems[site][level]
-    .map((p) => `- [${p.title}](${p.href})`)
+    .map((p) => `- [${p.title}(언어: ${p.extension})](${p.href})`)
     .join("\n  ");
 }
 
