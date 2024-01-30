@@ -35,6 +35,7 @@
 
   #### 3일차 - 반복문을 활용한 완전탐색 2
     
+  - [N-QUEEN](/2024-dgu-spring-camp/03/2861.py)
   - [정사각형 찾기](/2024-dgu-spring-camp/03/296.py)
   - [고기잡이(L)](/2024-dgu-spring-camp/03/2962.py)
   - [마라톤1](/2024-dgu-spring-camp/03/3370.py)
