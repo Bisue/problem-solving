@@ -57,6 +57,19 @@
   - [N과 M 1](/2024-dgu-spring-camp/04/4155.py)
   - [N과 M 3](/2024-dgu-spring-camp/04/4156.py)
   - [사과 나누기](/2024-dgu-spring-camp/04/4752.py)
+
+  #### 5일차 - DFS 2
+    
+  - [조건 수열](/2024-dgu-spring-camp/05/4142.cpp)
+  - [소 그람](/2024-dgu-spring-camp/05/4282.py)
+  - [둘레](/2024-dgu-spring-camp/05/4283.py)
+  - [단지번호붙이기](/2024-dgu-spring-camp/05/4284.py)
+  - [다이어트](/2024-dgu-spring-camp/05/4755.py)
+  - [섬의 개수](/2024-dgu-spring-camp/05/4884.py)
+  - [침투](/2024-dgu-spring-camp/05/4886.py)
+  - [방 개수 세기](/2024-dgu-spring-camp/05/5304.py)
+  - [싸이클(KOI지역2012_초등부_2)](/2024-dgu-spring-camp/05/783.py)
+  - [색종이 2(KOI지역2007_중등부_2)](/2024-dgu-spring-camp/05/855.py)
 </details>
 
 <details>
