@@ -70,6 +70,20 @@
   - [방 개수 세기(언어: py)](/2024-dgu-spring-camp/05/5304.py)
   - [싸이클(KOI지역2012_초등부_2)(언어: py)](/2024-dgu-spring-camp/05/783.py)
   - [색종이 2(KOI지역2007_중등부_2)(언어: py)](/2024-dgu-spring-camp/05/855.py)
+
+  #### 6일차 - BFS 1
+    
+  - [스택(언어: py)](/2024-dgu-spring-camp/06/101.py)
+  - [선입선출(언어: py)](/2024-dgu-spring-camp/06/115.py)
+  - [정수 배열이 너무 좋아(언어: py)](/2024-dgu-spring-camp/06/118.py)
+  - [직접 만든 큐(언어: py)](/2024-dgu-spring-camp/06/121.py)
+  - [카드(언어: py)](/2024-dgu-spring-camp/06/128.py)
+  - [방금건 취소(언어: py)](/2024-dgu-spring-camp/06/2782.py)
+  - [엘리베이터(언어: py)](/2024-dgu-spring-camp/06/4696.py)
+  - [포탈(언어: py)](/2024-dgu-spring-camp/06/4697.py)
+  - [소수 경로(언어: py)](/2024-dgu-spring-camp/06/4701.py)
+  - [우유 담기(언어: py)](/2024-dgu-spring-camp/06/4788.py)
+  - [조세퍼스 문제(언어: py)](/2024-dgu-spring-camp/06/5.py)
 </details>
 
 <details>
