@@ -44,6 +44,7 @@
   - [표지(언어: py)](/2024-dgu-spring-camp/03/4103.py)
   - [화살표그리기(KOI전국2018_초등부_2)(언어: py)](/2024-dgu-spring-camp/03/553.py)
   - [덩치(KOI지역2013_초등부_2)(언어: py)](/2024-dgu-spring-camp/03/767.py)
+  - [회전 초밥(KOI지역2012_중등부_2)(언어: py)](/2024-dgu-spring-camp/03/811.py)
 
   #### 4일차 - DFS 1
     
