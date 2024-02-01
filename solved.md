@@ -94,6 +94,7 @@
   - [벽 부수고 이동하기(언어: py)](/2024-dgu-spring-camp/07/4702.py)
   - [나이트의 이동(언어: py)](/2024-dgu-spring-camp/07/4782.py)
   - [토마토(KOI지역2013_초등부_3)(언어: py)](/2024-dgu-spring-camp/07/768.py)
+  - [보물섬(KOI지역2005_초등부_3)(언어: cpp)](/2024-dgu-spring-camp/07/869.cpp)
 </details>
 
 <details>
