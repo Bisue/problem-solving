@@ -85,6 +85,15 @@
   - [소수 경로(언어: py)](/2024-dgu-spring-camp/06/4701.py)
   - [우유 담기(언어: py)](/2024-dgu-spring-camp/06/4788.py)
   - [조세퍼스 문제(언어: py)](/2024-dgu-spring-camp/06/5.py)
+
+  #### 7일차 - BFS 2
+    
+  - [미로 탐험(언어: py)](/2024-dgu-spring-camp/07/13.py)
+  - [탈출하기(언어: py)](/2024-dgu-spring-camp/07/440.py)
+  - [불(언어: py)](/2024-dgu-spring-camp/07/4699.py)
+  - [벽 부수고 이동하기(언어: py)](/2024-dgu-spring-camp/07/4702.py)
+  - [나이트의 이동(언어: py)](/2024-dgu-spring-camp/07/4782.py)
+  - [토마토(KOI지역2013_초등부_3)(언어: py)](/2024-dgu-spring-camp/07/768.py)
 </details>
 
 <details>
