@@ -95,6 +95,13 @@
   - [나이트의 이동(언어: py)](/2024-dgu-spring-camp/07/4782.py)
   - [토마토(KOI지역2013_초등부_3)(언어: py)](/2024-dgu-spring-camp/07/768.py)
   - [보물섬(KOI지역2005_초등부_3)(언어: cpp)](/2024-dgu-spring-camp/07/869.cpp)
+
+  #### 8일차 - 중간고사
+    
+  - [소가 길을 건너간 이유 2(USACO_2017_FEB_BRONZE_2)(중간고사)(언어: py)](/2024-dgu-spring-camp/08/1.py)
+  - [수강신청(중간고사)(언어: py)](/2024-dgu-spring-camp/08/2.py)
+  - [수강신청2(중간고사)(언어: py)](/2024-dgu-spring-camp/08/3.py)
+  - [점이 두개(중간고사)(언어: py)](/2024-dgu-spring-camp/08/4.py)
 </details>
 
 <details>
