@@ -102,6 +102,18 @@
   - [수강신청(중간고사)(언어: py)](/2024-dgu-spring-camp/08/2.py)
   - [수강신청2(중간고사)(언어: py)](/2024-dgu-spring-camp/08/3.py)
   - [점이 두개(중간고사)(언어: py)](/2024-dgu-spring-camp/08/4.py)
+
+  #### 9일차 - 그래프 1
+    
+  - [연결 요소의 개수(언어: py)](/2024-dgu-spring-camp/09/2794.py)
+  - [연구활동 가는 길(S)(언어: py)](/2024-dgu-spring-camp/09/3003.py)
+  - [어부바(언어: py)](/2024-dgu-spring-camp/09/3557.py)
+  - [DFS와 BFS(언어: py)](/2024-dgu-spring-camp/09/4321.py)
+  - [촌수계산(언어: py)](/2024-dgu-spring-camp/09/4695.py)
+  - [외판원 순회(언어: py)](/2024-dgu-spring-camp/09/4764.py)
+  - [소방서(언어: cpp)](/2024-dgu-spring-camp/09/4783.cpp)
+  - [소방서(언어: py)](/2024-dgu-spring-camp/09/4783.py)
+  - [바이러스(KOI지역2004_초등부_3)(언어: py)](/2024-dgu-spring-camp/09/877.py)
 </details>
 
 <details>
