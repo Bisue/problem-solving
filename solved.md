@@ -114,6 +114,16 @@
   - [소방서(언어: cpp)](/2024-dgu-spring-camp/09/4783.cpp)
   - [소방서(언어: py)](/2024-dgu-spring-camp/09/4783.py)
   - [바이러스(KOI지역2004_초등부_3)(언어: py)](/2024-dgu-spring-camp/09/877.py)
+
+  #### 10일차 - 그래프 2
+    
+  - [서브트리 노드 수 구하기(언어: cpp)](/2024-dgu-spring-camp/10/4310.cpp)
+  - [서브트리 노드 수 구하기(언어: py)](/2024-dgu-spring-camp/10/4310.py)
+  - [키 순서(언어: py)](/2024-dgu-spring-camp/10/4313.py)
+  - [우유 공장(언어: py)](/2024-dgu-spring-camp/10/4691.py)
+  - [등수 찾기(언어: py)](/2024-dgu-spring-camp/10/4692.py)
+  - [이분 그래프(언어: py)](/2024-dgu-spring-camp/10/4693.py)
+  - [트리의 부모 찾기(언어: py)](/2024-dgu-spring-camp/10/4808.py)
 </details>
 
 <details>
