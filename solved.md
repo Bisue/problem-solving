@@ -124,6 +124,25 @@
   - [등수 찾기(언어: py)](/2024-dgu-spring-camp/10/4692.py)
   - [이분 그래프(언어: py)](/2024-dgu-spring-camp/10/4693.py)
   - [트리의 부모 찾기(언어: py)](/2024-dgu-spring-camp/10/4808.py)
+
+  #### 11일차 - 이분탐색
+    
+  - [중량 제한(언어: py)](/2024-dgu-spring-camp/11/1050.py)
+  - [나무 자르기(언어: cpp)](/2024-dgu-spring-camp/11/11.cpp)
+  - [나무 자르기(언어: py)](/2024-dgu-spring-camp/11/11.py)
+  - [Counting Haybles(USACO_2016_DEC_SILVER_1)(언어: py)](/2024-dgu-spring-camp/11/1239.py)
+  - [lower bound(언어: py)](/2024-dgu-spring-camp/11/2907.py)
+  - [upper bound(언어: py)](/2024-dgu-spring-camp/11/2908.py)
+  - [수 찾기(언어: cpp)](/2024-dgu-spring-camp/11/398.cpp)
+  - [수 찾기(언어: py)](/2024-dgu-spring-camp/11/398.py)
+  - [케이블 자르기(언어: py)](/2024-dgu-spring-camp/11/4309.py)
+  - [얼음 나눠주기(언어: cpp)](/2024-dgu-spring-camp/11/4312.cpp)
+  - [얼음 나눠주기(언어: py)](/2024-dgu-spring-camp/11/4312.py)
+  - [인강(언어: py)](/2024-dgu-spring-camp/11/4317.py)
+  - [휴게소 설치(언어: py)](/2024-dgu-spring-camp/11/4341.py)
+  - [공유기 설치(언어: py)](/2024-dgu-spring-camp/11/4342.py)
+  - [동전 금고(언어: cpp)](/2024-dgu-spring-camp/11/4703.cpp)
+  - [동전 금고(언어: py)](/2024-dgu-spring-camp/11/4703.py)
 </details>
 
 <details>
