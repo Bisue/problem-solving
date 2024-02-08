@@ -143,6 +143,15 @@
   - [공유기 설치(언어: py)](/2024-dgu-spring-camp/11/4342.py)
   - [동전 금고(언어: cpp)](/2024-dgu-spring-camp/11/4703.cpp)
   - [동전 금고(언어: py)](/2024-dgu-spring-camp/11/4703.py)
+
+  #### 12일차 - 정렬과 분할정복복
+    
+  - [과정 출력하기(버블)(언어: py)](/2024-dgu-spring-camp/12/406.py)
+  - [과정 출력하기(삽입)(언어: py)](/2024-dgu-spring-camp/12/407.py)
+  - [수 정렬하기(언어: py)](/2024-dgu-spring-camp/12/4666.py)
+  - [Hello Algo(언어: py)](/2024-dgu-spring-camp/12/5308.py)
+  - [분할정복으로 별 직기(언어: py)](/2024-dgu-spring-camp/12/5341.py)
+  - [하노이의 탑(언어: py)](/2024-dgu-spring-camp/12/5342.py)
 </details>
 
 <details>
