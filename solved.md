@@ -170,7 +170,9 @@
   #### 골드
     
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
+  - [최소비용 구하기(언어: py)](/baekjoon/gold/1916.py)
   - [여행 가자(언어: py)](/baekjoon/gold/1976.py)
+  - [알파벳(언어: py)](/baekjoon/gold/1987.py)
   - [구간 합 구하기(언어: py)](/baekjoon/gold/2042.py)
   - [친구 네트워크(언어: py)](/baekjoon/gold/4195.py)
 
