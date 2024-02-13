@@ -152,6 +152,16 @@
   - [Hello Algo(언어: py)](/2024-dgu-spring-camp/12/5308.py)
   - [분할정복으로 별 직기(언어: py)](/2024-dgu-spring-camp/12/5341.py)
   - [하노이의 탑(언어: py)](/2024-dgu-spring-camp/12/5342.py)
+
+  #### 13일차 - 우선순위 큐
+    
+  - [최소 힙(언어: py)](/2024-dgu-spring-camp/13/4597.py)
+  - [수 정렬하기(언어: cpp)](/2024-dgu-spring-camp/13/4666.cpp)
+  - [수 정렬하기(언어: py)](/2024-dgu-spring-camp/13/4666.py)
+  - [통행료(언어: py)](/2024-dgu-spring-camp/13/4791.py)
+  - [사과 배달(언어: py)](/2024-dgu-spring-camp/13/4792.py)
+  - [미로 제작(언어: py)](/2024-dgu-spring-camp/13/4794.py)
+  - [마을 회의(언어: py)](/2024-dgu-spring-camp/13/4796.py)
 </details>
 
 <details>
