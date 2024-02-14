@@ -162,6 +162,17 @@
   - [사과 배달(언어: py)](/2024-dgu-spring-camp/13/4792.py)
   - [미로 제작(언어: py)](/2024-dgu-spring-camp/13/4794.py)
   - [마을 회의(언어: py)](/2024-dgu-spring-camp/13/4796.py)
+
+  #### 14일차 - 그리디
+    
+  - [배식(언어: py)](/2024-dgu-spring-camp/14/100.py)
+  - [회의실 배정(언어: py)](/2024-dgu-spring-camp/14/210.py)
+  - [배치하기(언어: py)](/2024-dgu-spring-camp/14/2709.py)
+  - [체육대회(언어: py)](/2024-dgu-spring-camp/14/337.py)
+  - [파일 합치기(언어: py)](/2024-dgu-spring-camp/14/4152.py)
+  - [윌리의 시간관리(언어: py)](/2024-dgu-spring-camp/14/4160.py)
+  - [대표 자연수(KOI전국2009_초등부_1)(언어: py)](/2024-dgu-spring-camp/14/658.py)
+  - [밧줄(언어: py)](/2024-dgu-spring-camp/14/7.py)
 </details>
 
 <details>
