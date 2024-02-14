@@ -226,6 +226,7 @@
   - [등굣길(언어: py)](/programmers/lv3/42898.py)
   - [입국심사(언어: py)](/programmers/lv3/43238.py)
   - [가장 먼 노드(언어: py)](/programmers/lv3/49189.py)
+  - [순위(언어: py)](/programmers/lv3/49191.py)
 
   #### 레벨 4
     
