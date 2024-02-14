@@ -7,6 +7,7 @@ const siteMeta = {
   programmers: {
     lv2: "레벨 2",
     lv3: "레벨 3",
+    lv4: "레벨 4",
   },
   baekjoon: {
     silver: "실버",
