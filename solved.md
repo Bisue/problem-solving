@@ -224,5 +224,6 @@
   - [디스크 컨트롤러(언어: cpp)](/programmers/lv3/42627.cpp)
   - [이중우선순위큐(언어: cpp)](/programmers/lv3/42628.cpp)
   - [등굣길(언어: py)](/programmers/lv3/42898.py)
+  - [입국심사(언어: py)](/programmers/lv3/43238.py)
   - [가장 먼 노드(언어: py)](/programmers/lv3/49189.py)
 </details>
