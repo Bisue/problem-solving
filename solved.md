@@ -185,6 +185,7 @@
   - [여행 가자(언어: py)](/baekjoon/gold/1976.py)
   - [알파벳(언어: py)](/baekjoon/gold/1987.py)
   - [구간 합 구하기(언어: py)](/baekjoon/gold/2042.py)
+  - [최솟값과 최댓값(언어: py)](/baekjoon/gold/2357.py)
   - [친구 네트워크(언어: py)](/baekjoon/gold/4195.py)
 
   #### 실버
