@@ -196,6 +196,15 @@
   - [용돈받는 윌리(언어: py)](/2024-dgu-spring-camp/16/4094.py)
   - [계단 게임(언어: py)](/2024-dgu-spring-camp/16/4099.py)
   - [제곱수의 합(언어: cpp)](/2024-dgu-spring-camp/16/4353.cpp)
+
+  #### 17일차 - 동적 프로그래밍 2
+    
+  - [증가하는 가장 긴 수열 찾기(언어: py)](/2024-dgu-spring-camp/17/4079.py)
+  - [감소하는 가장 긴 수열 찾기(언어: py)](/2024-dgu-spring-camp/17/4081.py)
+  - [증가하는 가장 큰 수열 찾기(언어: py)](/2024-dgu-spring-camp/17/4082.py)
+  - [서점(언어: cpp)](/2024-dgu-spring-camp/17/4085.cpp)
+  - [욕심많은 윌리(언어: cpp)](/2024-dgu-spring-camp/17/4100.cpp)
+  - [최장 길이 공통 부분 문자열(언어: py)](/2024-dgu-spring-camp/17/4118.py)
 </details>
 
 <details>
