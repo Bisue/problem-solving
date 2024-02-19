@@ -228,6 +228,7 @@
   #### 실버
     
   - [가장 긴 증가하는 부분 수열(언어: py)](/baekjoon/silver/11053.py)
+  - [스티커(언어: py)](/baekjoon/silver/9465.py)
 </details>
 
 <details>
