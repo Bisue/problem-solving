@@ -222,6 +222,7 @@
   - [내려가기(언어: py)](/baekjoon/gold/2096.py)
   - [최솟값과 최댓값(언어: py)](/baekjoon/gold/2357.py)
   - [친구 네트워크(언어: py)](/baekjoon/gold/4195.py)
+  - [공통 부분 문자열(언어: py)](/baekjoon/gold/5582.py)
   - [LCS(언어: py)](/baekjoon/gold/9251.py)
 
   #### 실버
