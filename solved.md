@@ -212,17 +212,20 @@
 
   #### 골드
     
+  - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
   - [최소비용 구하기(언어: py)](/baekjoon/gold/1916.py)
   - [여행 가자(언어: py)](/baekjoon/gold/1976.py)
   - [알파벳(언어: py)](/baekjoon/gold/1987.py)
   - [구간 합 구하기(언어: py)](/baekjoon/gold/2042.py)
+  - [내려가기(언어: py)](/baekjoon/gold/2096.py)
   - [최솟값과 최댓값(언어: py)](/baekjoon/gold/2357.py)
   - [친구 네트워크(언어: py)](/baekjoon/gold/4195.py)
+  - [LCS(언어: py)](/baekjoon/gold/9251.py)
 
   #### 실버
     
-  
+  - [가장 긴 증가하는 부분 수열(언어: py)](/baekjoon/silver/11053.py)
 </details>
 
 <details>
