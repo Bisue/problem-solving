@@ -1,5 +1,9 @@
 <details>
-  <summary>동국대 코딩 역량 강화 캠프</summary>
+  <summary>
+  
+### 동국대 코딩 역량 강화 캠프
+  
+  </summary>
 
   #### 1일차 - 시간 복잡도 & 문제 접근 방법
     
@@ -216,7 +220,11 @@
 </details>
 
 <details>
-  <summary>백준</summary>
+  <summary>
+  
+### 백준
+  
+  </summary>
 
   #### 골드
     
@@ -240,7 +248,11 @@
 </details>
 
 <details>
-  <summary>프로그래머스</summary>
+  <summary>
+  
+### 프로그래머스
+  
+  </summary>
 
   #### 레벨 2
     
