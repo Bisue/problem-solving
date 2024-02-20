@@ -34,6 +34,11 @@ const siteMeta = {
     "18": "18일차 - 기말고사",
   },
 };
+const siteDisplayNames = {
+  programmers: "프로그래머스",
+  baekjoon: "백준",
+  "2024-dgu-spring-camp": "동국대 코딩 역량 강화 캠프",
+};
 const ignores = [".gitkeep"];
 const output = "solved.md";
 
@@ -101,7 +106,7 @@ function buildMarkdown(solvedProblems) {
   return Object.keys(solvedProblems)
     .map(
       (s) => `<details>
-  <summary>${s}</summary>
+  <summary>${siteDisplayNames[s]}</summary>
 
   ${buildLevelsMarkdown(solvedProblems, s)}
 </details>`
