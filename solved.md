@@ -205,6 +205,14 @@
   - [서점(언어: cpp)](/2024-dgu-spring-camp/17/4085.cpp)
   - [욕심많은 윌리(언어: cpp)](/2024-dgu-spring-camp/17/4100.cpp)
   - [최장 길이 공통 부분 문자열(언어: py)](/2024-dgu-spring-camp/17/4118.py)
+
+  #### 18일차 - 기말고사
+    
+  - [동국대는 가위바위보를 좋아해(언어: py)](/2024-dgu-spring-camp/18/1.py)
+  - [젠가의 신(언어: py)](/2024-dgu-spring-camp/18/2.py)
+  - [형스킨라빈스 주니원 포장 주문(언어: py)](/2024-dgu-spring-camp/18/3.py)
+  - [형스킨라빈스 주니원 배달 주문(언어: py)](/2024-dgu-spring-camp/18/4.py)
+  - [동국대에서도 클라이밍을 할 수 있어요(언어: py)](/2024-dgu-spring-camp/18/5.py)
 </details>
 
 <details>
