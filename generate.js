@@ -106,7 +106,11 @@ function buildMarkdown(solvedProblems) {
   return Object.keys(solvedProblems)
     .map(
       (s) => `<details>
-  <summary>${siteDisplayNames[s]}</summary>
+  <summary>
+  
+### ${siteDisplayNames[s]}
+  
+  </summary>
 
   ${buildLevelsMarkdown(solvedProblems, s)}
 </details>`
