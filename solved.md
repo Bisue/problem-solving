@@ -209,6 +209,7 @@
   - [서점(언어: cpp)](/2024-dgu-spring-camp/17/4085.cpp)
   - [욕심많은 윌리(언어: cpp)](/2024-dgu-spring-camp/17/4100.cpp)
   - [최장 길이 공통 부분 문자열(언어: py)](/2024-dgu-spring-camp/17/4118.py)
+  - [LCS 3(언어: cpp)](/2024-dgu-spring-camp/17/4440.cpp)
 
   #### 18일차 - 기말고사
     
