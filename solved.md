@@ -229,6 +229,7 @@
 
   #### 골드
     
+  - [끝나지 않는 파티(언어: py)](/baekjoon/gold/11265.py)
   - [플로이드(언어: py)](/baekjoon/gold/11404.py)
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
@@ -238,6 +239,7 @@
   - [구간 합 구하기(언어: py)](/baekjoon/gold/2042.py)
   - [내려가기(언어: py)](/baekjoon/gold/2096.py)
   - [최솟값과 최댓값(언어: py)](/baekjoon/gold/2357.py)
+  - [스도쿠(언어: py)](/baekjoon/gold/2580.py)
   - [친구 네트워크(언어: py)](/baekjoon/gold/4195.py)
   - [공통 부분 문자열(언어: py)](/baekjoon/gold/5582.py)
   - [LCS(언어: py)](/baekjoon/gold/9251.py)
