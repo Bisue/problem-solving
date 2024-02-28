@@ -229,6 +229,7 @@
 
   #### 골드
     
+  - [적록색약(언어: py)](/baekjoon/gold/10026.py)
   - [끝나지 않는 파티(언어: py)](/baekjoon/gold/11265.py)
   - [플로이드(언어: py)](/baekjoon/gold/11404.py)
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
