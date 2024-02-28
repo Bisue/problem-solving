@@ -250,6 +250,7 @@
     
   - [가장 긴 증가하는 부분 수열(언어: py)](/baekjoon/silver/11053.py)
   - [가장 큰 증가하는 부분 수열(언어: py)](/baekjoon/silver/11055.py)
+  - [선분 위의 점(언어: py)](/baekjoon/silver/11663.py)
   - [가장 긴 감소하는 부분 수열(언어: py)](/baekjoon/silver/11722.py)
   - [영화감독 숌(언어: py)](/baekjoon/silver/1436.py)
   - [팩토리얼 0의 개수(언어: py)](/baekjoon/silver/1676.py)
