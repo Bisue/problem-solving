@@ -251,7 +251,10 @@
   - [가장 긴 증가하는 부분 수열(언어: py)](/baekjoon/silver/11053.py)
   - [가장 큰 증가하는 부분 수열(언어: py)](/baekjoon/silver/11055.py)
   - [가장 긴 감소하는 부분 수열(언어: py)](/baekjoon/silver/11722.py)
+  - [영화감독 숌(언어: py)](/baekjoon/silver/1436.py)
+  - [팩토리얼 0의 개수(언어: py)](/baekjoon/silver/1676.py)
   - [점프(언어: py)](/baekjoon/silver/1890.py)
+  - [소수 구하기(언어: py)](/baekjoon/silver/1929.py)
   - [스티커(언어: py)](/baekjoon/silver/9465.py)
 </details>
 
