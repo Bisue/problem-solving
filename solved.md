@@ -235,6 +235,7 @@
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
   - [인구 이동(언어: py)](/baekjoon/gold/16234.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
+  - [공주님을 구해라!(언어: py)](/baekjoon/gold/17836.py)
   - [최소비용 구하기(언어: py)](/baekjoon/gold/1916.py)
   - [여행 가자(언어: py)](/baekjoon/gold/1976.py)
   - [알파벳(언어: py)](/baekjoon/gold/1987.py)
