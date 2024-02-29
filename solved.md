@@ -233,6 +233,7 @@
   - [끝나지 않는 파티(언어: py)](/baekjoon/gold/11265.py)
   - [플로이드(언어: py)](/baekjoon/gold/11404.py)
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
+  - [인구 이동(언어: py)](/baekjoon/gold/16234.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
   - [최소비용 구하기(언어: py)](/baekjoon/gold/1916.py)
   - [여행 가자(언어: py)](/baekjoon/gold/1976.py)
