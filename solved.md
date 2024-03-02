@@ -251,6 +251,7 @@
 
   #### 실버
     
+  - [숫자 카드(언어: py)](/baekjoon/silver/10815.py)
   - [가장 긴 증가하는 부분 수열(언어: py)](/baekjoon/silver/11053.py)
   - [가장 큰 증가하는 부분 수열(언어: py)](/baekjoon/silver/11055.py)
   - [선분 위의 점(언어: py)](/baekjoon/silver/11663.py)
