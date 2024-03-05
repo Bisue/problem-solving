@@ -259,6 +259,7 @@
   - [트리의 부모 찾기(언어: py)](/baekjoon/silver/11725.py)
   - [영화감독 숌(언어: py)](/baekjoon/silver/1436.py)
   - [팩토리얼 0의 개수(언어: py)](/baekjoon/silver/1676.py)
+  - [특정 거리의 도시 찾기(언어: py)](/baekjoon/silver/18352.py)
   - [점프(언어: py)](/baekjoon/silver/1890.py)
   - [소수 구하기(언어: py)](/baekjoon/silver/1929.py)
   - [스티커(언어: py)](/baekjoon/silver/9465.py)
