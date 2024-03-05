@@ -20,8 +20,6 @@ parents[1] = 1
 def markParent(parent):
     global parents
 
-    print("cur: ", parent)
-
     for child in graphs[parent]:
         if parents[child] == 0:
             parents[child] = parent
