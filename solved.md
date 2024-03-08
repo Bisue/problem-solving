@@ -263,6 +263,7 @@
   - [특정 거리의 도시 찾기(언어: py)](/baekjoon/silver/18352.py)
   - [점프(언어: py)](/baekjoon/silver/1890.py)
   - [소수 구하기(언어: py)](/baekjoon/silver/1929.py)
+  - [출석체크(언어: py)](/baekjoon/silver/20438.py)
   - [정수 제곱근(언어: py)](/baekjoon/silver/2417.py)
   - [스티커(언어: py)](/baekjoon/silver/9465.py)
 </details>
