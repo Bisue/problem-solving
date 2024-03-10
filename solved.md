@@ -234,6 +234,7 @@
   - [플로이드(언어: py)](/baekjoon/gold/11404.py)
   - [하노이 탑 이동 순서(언어: py)](/baekjoon/gold/11729.py)
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
+  - [회전 초밥(언어: py)](/baekjoon/gold/15961.py)
   - [인구 이동(언어: py)](/baekjoon/gold/16234.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
   - [케이크 자르기(언어: py)](/baekjoon/gold/17179.py)
