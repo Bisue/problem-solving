@@ -266,6 +266,7 @@
   - [점프(언어: py)](/baekjoon/silver/1890.py)
   - [소수 구하기(언어: py)](/baekjoon/silver/1929.py)
   - [출석체크(언어: py)](/baekjoon/silver/20438.py)
+  - [겹치는 건 싫어(언어: py)](/baekjoon/silver/20922.py)
   - [정수 제곱근(언어: py)](/baekjoon/silver/2417.py)
   - [스티커(언어: py)](/baekjoon/silver/9465.py)
 </details>
