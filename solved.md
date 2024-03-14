@@ -272,6 +272,7 @@
   - [겹치는 건 싫어(언어: py)](/baekjoon/silver/20922.py)
   - [정수 제곱근(언어: py)](/baekjoon/silver/2417.py)
   - [스티커(언어: py)](/baekjoon/silver/9465.py)
+  - [완전 이진 트리(언어: py)](/baekjoon/silver/9934.py)
 </details>
 
 <details>
