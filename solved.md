@@ -235,6 +235,7 @@
   - [하노이 탑 이동 순서(언어: py)](/baekjoon/gold/11729.py)
   - [평범한 배낭(언어: py)](/baekjoon/gold/12865.py)
   - [숨바꼭질 3(언어: py)](/baekjoon/gold/13549.py)
+  - [서강그라운드(언어: py)](/baekjoon/gold/14938.py)
   - [회전 초밥(언어: py)](/baekjoon/gold/15961.py)
   - [인구 이동(언어: py)](/baekjoon/gold/16234.py)
   - [집합의 표현(언어: py)](/baekjoon/gold/1717.py)
