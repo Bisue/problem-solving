@@ -247,6 +247,7 @@
   - [알파벳(언어: py)](/baekjoon/gold/1987.py)
   - [구간 합 구하기(언어: py)](/baekjoon/gold/2042.py)
   - [내려가기(언어: py)](/baekjoon/gold/2096.py)
+  - [명제 증명(언어: py)](/baekjoon/gold/2224.py)
   - [최솟값과 최댓값(언어: py)](/baekjoon/gold/2357.py)
   - [두 용액(언어: py)](/baekjoon/gold/2470.py)
   - [스도쿠(언어: py)](/baekjoon/gold/2580.py)
