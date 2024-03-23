@@ -25,4 +25,4 @@ node generate.js
 
 > 기업 코딩테스트 관련 내용은 보안 문제로 submodule로 관리함.
 
-- [real-review(refer:problem-solving-cotest-review)](./real-review/) 
+- [real-review(refer:problem-solving-cotest-review)](https://github.com/Bisue/problem-solving-cotest-review) 
