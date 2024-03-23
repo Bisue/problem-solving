@@ -1,0 +1,3 @@
+[submodule "real-review"]
+	path = real-review
+	url = https://github.com/Bisue/problem-solving-cotest-review.git
