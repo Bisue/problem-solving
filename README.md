@@ -15,8 +15,14 @@
 
 ### 푼 문제 목록 자동생성기
 
-> 푼 문제 코드를 커밋 후 푸시하면 [actions에 의해](/.github/workflows/generate.yml) 자동으로 생성됨
+> 푼 문제 코드를 커밋 후 푸시하면 [actions에 의해](/.github/workflows/generate.yml) 자동으로 생성됨.
 
 ```
 node generate.js
 ```
+
+### 서브 모듈
+
+> 기업 코딩테스트 관련 내용은 보안 문제로 submodule로 관리함.
+
+- [real-review(refer:problem-solving-cotest-review)](./real-review/) 
